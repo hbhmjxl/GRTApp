@@ -1,0 +1,8 @@
+{
+  "name": "GRTApp",
+  "app_id": "2d7cbd8a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
